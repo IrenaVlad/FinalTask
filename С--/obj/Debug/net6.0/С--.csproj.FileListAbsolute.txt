@@ -1,0 +1,15 @@
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/bin/Debug/net6.0/С--
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/bin/Debug/net6.0/С--.deps.json
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/bin/Debug/net6.0/С--.runtimeconfig.json
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/bin/Debug/net6.0/С--.dll
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/bin/Debug/net6.0/С--.pdb
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.csproj.AssemblyReference.cache
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.AssemblyInfoInputs.cache
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.AssemblyInfo.cs
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.dll
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/refint/С--.dll
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.pdb
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/С--.genruntimeconfig.cache
+/Users/irina/Desktop/GitCourse/projects/FinalTask/FinalTask/С--/obj/Debug/net6.0/ref/С--.dll
